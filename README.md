@@ -6,7 +6,7 @@ This project is an E-Commerce website built using the MERN stack (MongoDB, Expre
 
 - **User Authentication:** Users can sign up, log in, and log out securely.
 
-  ![image](https://github.com/divyan7982/EazyMart/assets/131895243/e1ca4568-fb02-4138-aa03-4d5309642d2b)
+  ![image](https://github.com/divyan7982/EazyMart/assets/131895243/e55ddec6-c906-4687-b47a-23e1a410208c)
 
 - **Product Catalog:** Display a wide range of products with details including name, description, price, and images. Users can browse products and filter them based on categories, price range, etc.
 
