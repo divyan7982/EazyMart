@@ -27,7 +27,7 @@ const LoginSignup = ({login,signup})=>{
     return(<div class="container my-5">
         <div>
           <a href="/" class="logo">
-            <h1 class="text-center">e-Shopper</h1>
+            <h1 class="text-center">EazyMart</h1>
           </a>        
         </div>
 
