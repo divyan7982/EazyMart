@@ -39,8 +39,6 @@ This project is an E-Commerce website built using the MERN stack (MongoDB, Expre
   - Express.js
   - MongoDB 
 
-- **Payment Integration:**
-  - Razorpay
 
 ## Setup Instruction:
 - Clone the Repository: git clone https://github.com/divyan7982/EazyMart.git
