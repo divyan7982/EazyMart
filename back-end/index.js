@@ -63,7 +63,7 @@ const Order = new mongoose.model('Order',orderSchema);
 main().catch(err => console.log(err));
 
 async function main() {
-    await mongoose.connect('mongodb+srv://divyan2708:test123@cluster0.i8lryaw.mongodb.net/test');
+    await mongoose.connect('mongodb+srv://your_username:your_password@your_cluster_url');
     console.log('Server Connected');
     // Write Code Here
 }
