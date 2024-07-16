@@ -16,10 +16,6 @@ This project is an E-Commerce website built using the MERN stack (MongoDB, Expre
 
   ![image](https://github.com/divyan7982/EazyMart/assets/131895243/9059bcfd-9ddc-4648-9b4a-6aad7690621c)
 
-- **Checkout Process:** Integrated payment gateway allows users to securely checkout their cart. Payment processing is implemented using [Payment Gateway Provider Name].
-
-  ![image](https://github.com/divyan7982/EazyMart/assets/131895243/5bbac8fd-6808-4fe2-89c4-d28f28c67624)
-
 - **Order Management:** Users can view their order history, track order status, and manage their shipping addresses.
 
   ![image](https://github.com/divyan7982/EazyMart/assets/131895243/a4699f9e-ba00-4467-9f32-5f4a43fd25ed)
